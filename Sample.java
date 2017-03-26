@@ -14,4 +14,4 @@ public class Sample extends Applet
 		{
 			g.drawString(msg,100,100);
 		}
-}
+}jdsjdjs
